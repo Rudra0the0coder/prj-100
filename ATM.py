@@ -12,5 +12,5 @@ class atm:
     def cashDeposit(self, card_number):
             print("Your cash is safely deposited")
 
-idfcBank = atm(28382929929, 2020)
-print(idfcBank.cashWithdrawal(28382929929))
+idfcBank = atm(18214181, 2021)
+print(idfcBank.cashWithdrawal(18214181))
